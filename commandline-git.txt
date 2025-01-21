@@ -1,0 +1,5 @@
+git init : Initialize a local Git repository.
+git add [file-name.txt] : Add a file to the staging area.
+git status :	Check status of depository.
+git commit -m "[commit message]" : Commit changes.
+git log :View changes
