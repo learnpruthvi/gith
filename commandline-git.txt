@@ -2,4 +2,15 @@ git init : Initialize a local Git repository.
 git add [file-name.txt] : Add a file to the staging area.
 git status :	Check status of depository.
 git commit -m "[commit message]" : Commit changes.
-git log :View changes
+git log :View changes.
+
+-- push-request for depository --
+copy path from github : ex:- git remote add origin https://github.com/pruthvichhowala/gith.git
+for name : git branch
+change name if your branch name is other than main : git branch -M main
+for push request : git push -u origin main
+
+-- merging and branching --
+for check current brach : git branch
+Create a new branch :  git branch whatever_name
+Switch to the new branch : git checkout whatever_name
