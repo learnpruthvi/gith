@@ -14,3 +14,4 @@ for push request : git push -u origin main
 for check current brach : git branch
 Create a new branch :  git branch whatever_name
 Switch to the new branch : git checkout whatever_name
+merging are best for collabrating
